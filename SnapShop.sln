@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnapShopConsole", "SnapShopConsole\SnapShopConsole.csproj", "{44B0C46E-49E1-4827-A907-D241E8F985FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnapShopDAL", "SnapShopDAL\SnapShopDAL.csproj", "{14CDCFB3-F730-47DC-80AC-3151E24626FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B0C46E-49E1-4827-A907-D241E8F985FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B0C46E-49E1-4827-A907-D241E8F985FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B0C46E-49E1-4827-A907-D241E8F985FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B0C46E-49E1-4827-A907-D241E8F985FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14CDCFB3-F730-47DC-80AC-3151E24626FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CDCFB3-F730-47DC-80AC-3151E24626FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CDCFB3-F730-47DC-80AC-3151E24626FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CDCFB3-F730-47DC-80AC-3151E24626FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0705DA8D-711C-4BD8-BA5D-53FD53CE7ACB}
+	EndGlobalSection
+EndGlobal
